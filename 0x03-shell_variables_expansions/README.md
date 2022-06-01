@@ -16,6 +16,7 @@ Task 7 : export BEST="School" - Create a script that creates a new global variab
 Task 8 : echo $((128 + $TRUEKNOWLEDGE)) - Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 Task 9 : echo $((POWER/DIVIDE)) - Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
 					POWER and DIVIDE are environment variables
+
 Task 10 : echo $((BREATH**LOVE)) - Write a script that displays the result of BREATH to the power LOVE
 					BREATH and LOVE are environment variables
 					The script should display the result, followed by a new line
@@ -29,4 +30,6 @@ except oo.
                                                                 The output should be alpha ordered, starting with aa             
                                                                 Do not print oo                                                  
                                                                 Your script file should contain maximum 64 characters
+Task 13 : printf '%.2f\n' $NUM - Write a script that prints a number with two decimal places, followed by a new line.
+				 The number will be stored in the environment variable NUM.
 
