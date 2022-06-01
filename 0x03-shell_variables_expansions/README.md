@@ -14,4 +14,5 @@ Task 7 : export BEST="School" - Create a script that creates a new global variab
 				Name: BEST
 				Value: School
 Task 8 : echo $((128 + $TRUEKNOWLEDGE)) - Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
-
+Task 9 : echo $((POWER/DIVIDE)) - Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
+					POWER and DIVIDE are environment variables
