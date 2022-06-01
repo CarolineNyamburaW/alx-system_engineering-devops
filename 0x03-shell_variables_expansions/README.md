@@ -7,3 +7,6 @@ Task 2 : PATH=$PATH:/action - Add /action to the PATH. /action should be the las
 Task 3 : echo $PATH | tr ':' '\n' | wc -l - Create a script that counts the number of directories in the PATH.
 Task 4 : printenv - Create a script that lists environment variables.
 Task 5 : set - create a script that lists all local variables and environment variables, and functions.
+Task 6 : BEST=School -Create a script that creates a new local variable.
+			Name: BEST
+			Value: School
