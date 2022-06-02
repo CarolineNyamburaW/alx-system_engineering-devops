@@ -8,4 +8,5 @@ Task 5 : head /etc/passwd - Display the first 10 lines of /etc/passwd
 Task 6 : head -3 iacta | tail -1 - Write a script that displays the third line of the file iacta.
 	The file iacta will be in the working directory
 	You’re not allowed to use sed
-Task 7 : 
+Task 7 : echo "Best School" > "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)" - Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+Tash 8 : 
